@@ -1,0 +1,17 @@
+h1{
+    color:brown  !important;
+}
+div{
+   
+    width:500px  !important;
+    height:500px  !important;
+    flex-wrap:wrap  !important;
+    gap:10px;
+    transform: scale(1.1);
+    text-align: center;
+    justify-content: center;
+    display:flex;
+    margin:20px;
+    padding:20px;
+    margin-left:20px;
+}
